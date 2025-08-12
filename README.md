@@ -1,0 +1,1 @@
+Life Expectancy Project aims to conduct an Exploratory Data Analysis (EDA) focused on the relationship between Life Expectancy and Gross Domestic Product (GDP) across six different countries, covering the years from 2000 to 2015.
