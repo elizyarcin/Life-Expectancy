@@ -5,15 +5,15 @@ This project explores the relationship between **life expectancy** and **GDP per
 ## 📁 Project Structure
 
 - `life_expectancy.ipynb` – Main analysis notebook
-- `data.csv` – Dataset used for analysis
-- `/plots` – Folder containing generated visualizations (optional)
+- `all_data.csv` – Dataset used for analysis
+
 
 ## 📊 Techniques Used
 
 - Data cleaning and preprocessing
 - Statistical summaries
-- Data visualization (scatter plots, histograms, correlation heatmaps)
-- Correlation analysis between economic indicators and health outcomes
+- Data visualization (scatter plots, histograms, lineplot , boxplot)
+- Correlation analysis between life expectancy and  gdp
 
 ## 🚀 Key Findings
 
