@@ -42,3 +42,6 @@ This project explores the relationship between **life expectancy** and **GDP per
 ## 📎 License
 
 This project is licensed under the MIT License.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/Project%20Status-Completed-brightgreen)
+
